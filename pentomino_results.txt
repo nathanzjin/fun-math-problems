@@ -1,0 +1,4698 @@
+Total valid pentominoes: 968
+
+Pentomino 1: Type F, Sum = 70
+      2
+ 11  12
+     22  23
+
+Pentomino 2: Type F, Sum = 75
+      3
+ 12  13
+     23  24
+
+Pentomino 3: Type F, Sum = 80
+      4
+ 13  14
+     24  25
+
+Pentomino 4: Type F, Sum = 85
+      5
+ 14  15
+     25  26
+
+Pentomino 5: Type F, Sum = 90
+      6
+ 15  16
+     26  27
+
+Pentomino 6: Type F, Sum = 95
+      7
+ 16  17
+     27  28
+
+Pentomino 7: Type F, Sum = 100
+      8
+ 17  18
+     28  29
+
+Pentomino 8: Type F, Sum = 105
+      9
+ 18  19
+     29  30
+
+Pentomino 9: Type F, Sum = 120
+     12
+ 21  22
+     32  33
+
+Pentomino 10: Type F, Sum = 125
+     13
+ 22  23
+     33  34
+
+Pentomino 11: Type F, Sum = 130
+     14
+ 23  24
+     34  35
+
+Pentomino 12: Type F, Sum = 135
+     15
+ 24  25
+     35  36
+
+Pentomino 13: Type F, Sum = 140
+     16
+ 25  26
+     36  37
+
+Pentomino 14: Type F, Sum = 145
+     17
+ 26  27
+     37  38
+
+Pentomino 15: Type F, Sum = 150
+     18
+ 27  28
+     38  39
+
+Pentomino 16: Type F, Sum = 155
+     19
+ 28  29
+     39  40
+
+Pentomino 17: Type F, Sum = 170
+     22
+ 31  32
+     42  43
+
+Pentomino 18: Type F, Sum = 175
+     23
+ 32  33
+     43  44
+
+Pentomino 19: Type F, Sum = 180
+     24
+ 33  34
+     44  45
+
+Pentomino 20: Type F, Sum = 185
+     25
+ 34  35
+     45  46
+
+Pentomino 21: Type F, Sum = 190
+     26
+ 35  36
+     46  47
+
+Pentomino 22: Type F, Sum = 195
+     27
+ 36  37
+     47  48
+
+Pentomino 23: Type F, Sum = 200
+     28
+ 37  38
+     48  49
+
+Pentomino 24: Type F, Sum = 205
+     29
+ 38  39
+     49  50
+
+Pentomino 25: Type F, Sum = 220
+     32
+ 41  42
+     52  53
+
+Pentomino 26: Type F, Sum = 225
+     33
+ 42  43
+     53  54
+
+Pentomino 27: Type F, Sum = 230
+     34
+ 43  44
+     54  55
+
+Pentomino 28: Type F, Sum = 235
+     35
+ 44  45
+     55  56
+
+Pentomino 29: Type F, Sum = 240
+     36
+ 45  46
+     56  57
+
+Pentomino 30: Type F, Sum = 245
+     37
+ 46  47
+     57  58
+
+Pentomino 31: Type F, Sum = 250
+     38
+ 47  48
+     58  59
+
+Pentomino 32: Type F, Sum = 255
+     39
+ 48  49
+     59  60
+
+Pentomino 33: Type F, Sum = 270
+     42
+ 51  52
+     62  63
+
+Pentomino 34: Type F, Sum = 275
+     43
+ 52  53
+     63  64
+
+Pentomino 35: Type F, Sum = 280
+     44
+ 53  54
+     64  65
+
+Pentomino 36: Type F, Sum = 285
+     45
+ 54  55
+     65  66
+
+Pentomino 37: Type F, Sum = 290
+     46
+ 55  56
+     66  67
+
+Pentomino 38: Type F, Sum = 295
+     47
+ 56  57
+     67  68
+
+Pentomino 39: Type F, Sum = 300
+     48
+ 57  58
+     68  69
+
+Pentomino 40: Type F, Sum = 305
+     49
+ 58  59
+     69  70
+
+Pentomino 41: Type F, Sum = 320
+     52
+ 61  62
+     72  73
+
+Pentomino 42: Type F, Sum = 325
+     53
+ 62  63
+     73  74
+
+Pentomino 43: Type F, Sum = 330
+     54
+ 63  64
+     74  75
+
+Pentomino 44: Type F, Sum = 335
+     55
+ 64  65
+     75  76
+
+Pentomino 45: Type F, Sum = 340
+     56
+ 65  66
+     76  77
+
+Pentomino 46: Type F, Sum = 345
+     57
+ 66  67
+     77  78
+
+Pentomino 47: Type F, Sum = 350
+     58
+ 67  68
+     78  79
+
+Pentomino 48: Type F, Sum = 355
+     59
+ 68  69
+     79  80
+
+Pentomino 49: Type F, Sum = 370
+     62
+ 71  72
+     82  83
+
+Pentomino 50: Type F, Sum = 375
+     63
+ 72  73
+     83  84
+
+Pentomino 51: Type F, Sum = 380
+     64
+ 73  74
+     84  85
+
+Pentomino 52: Type F, Sum = 385
+     65
+ 74  75
+     85  86
+
+Pentomino 53: Type F, Sum = 390
+     66
+ 75  76
+     86  87
+
+Pentomino 54: Type F, Sum = 395
+     67
+ 76  77
+     87  88
+
+Pentomino 55: Type F, Sum = 400
+     68
+ 77  78
+     88  89
+
+Pentomino 56: Type F, Sum = 405
+     69
+ 78  79
+     89  90
+
+Pentomino 57: Type F, Sum = 420
+     72
+ 81  82
+     92  93
+
+Pentomino 58: Type F, Sum = 425
+     73
+ 82  83
+     93  94
+
+Pentomino 59: Type F, Sum = 430
+     74
+ 83  84
+     94  95
+
+Pentomino 60: Type F, Sum = 435
+     75
+ 84  85
+     95  96
+
+Pentomino 61: Type F, Sum = 440
+     76
+ 85  86
+     96  97
+
+Pentomino 62: Type F, Sum = 445
+     77
+ 86  87
+     97  98
+
+Pentomino 63: Type F, Sum = 450
+     78
+ 87  88
+     98  99
+
+Pentomino 64: Type F, Sum = 455
+     79
+ 88  89
+     99 100
+
+Pentomino 65: Type F, Sum = 50
+  1   2
+     12  13
+     22
+
+Pentomino 66: Type F, Sum = 55
+  2   3
+     13  14
+     23
+
+Pentomino 67: Type F, Sum = 60
+  3   4
+     14  15
+     24
+
+Pentomino 68: Type F, Sum = 65
+  4   5
+     15  16
+     25
+
+Pentomino 69: Type F, Sum = 70
+  5   6
+     16  17
+     26
+
+Pentomino 70: Type F, Sum = 75
+  6   7
+     17  18
+     27
+
+Pentomino 71: Type F, Sum = 80
+  7   8
+     18  19
+     28
+
+Pentomino 72: Type F, Sum = 85
+  8   9
+     19  20
+     29
+
+Pentomino 73: Type F, Sum = 100
+ 11  12
+     22  23
+     32
+
+Pentomino 74: Type F, Sum = 105
+ 12  13
+     23  24
+     33
+
+Pentomino 75: Type F, Sum = 110
+ 13  14
+     24  25
+     34
+
+Pentomino 76: Type F, Sum = 115
+ 14  15
+     25  26
+     35
+
+Pentomino 77: Type F, Sum = 120
+ 15  16
+     26  27
+     36
+
+Pentomino 78: Type F, Sum = 125
+ 16  17
+     27  28
+     37
+
+Pentomino 79: Type F, Sum = 130
+ 17  18
+     28  29
+     38
+
+Pentomino 80: Type F, Sum = 135
+ 18  19
+     29  30
+     39
+
+Pentomino 81: Type F, Sum = 150
+ 21  22
+     32  33
+     42
+
+Pentomino 82: Type F, Sum = 155
+ 22  23
+     33  34
+     43
+
+Pentomino 83: Type F, Sum = 160
+ 23  24
+     34  35
+     44
+
+Pentomino 84: Type F, Sum = 165
+ 24  25
+     35  36
+     45
+
+Pentomino 85: Type F, Sum = 170
+ 25  26
+     36  37
+     46
+
+Pentomino 86: Type F, Sum = 175
+ 26  27
+     37  38
+     47
+
+Pentomino 87: Type F, Sum = 180
+ 27  28
+     38  39
+     48
+
+Pentomino 88: Type F, Sum = 185
+ 28  29
+     39  40
+     49
+
+Pentomino 89: Type F, Sum = 200
+ 31  32
+     42  43
+     52
+
+Pentomino 90: Type F, Sum = 205
+ 32  33
+     43  44
+     53
+
+Pentomino 91: Type F, Sum = 210
+ 33  34
+     44  45
+     54
+
+Pentomino 92: Type F, Sum = 215
+ 34  35
+     45  46
+     55
+
+Pentomino 93: Type F, Sum = 220
+ 35  36
+     46  47
+     56
+
+Pentomino 94: Type F, Sum = 225
+ 36  37
+     47  48
+     57
+
+Pentomino 95: Type F, Sum = 230
+ 37  38
+     48  49
+     58
+
+Pentomino 96: Type F, Sum = 235
+ 38  39
+     49  50
+     59
+
+Pentomino 97: Type F, Sum = 250
+ 41  42
+     52  53
+     62
+
+Pentomino 98: Type F, Sum = 255
+ 42  43
+     53  54
+     63
+
+Pentomino 99: Type F, Sum = 260
+ 43  44
+     54  55
+     64
+
+Pentomino 100: Type F, Sum = 265
+ 44  45
+     55  56
+     65
+
+Pentomino 101: Type F, Sum = 270
+ 45  46
+     56  57
+     66
+
+Pentomino 102: Type F, Sum = 275
+ 46  47
+     57  58
+     67
+
+Pentomino 103: Type F, Sum = 280
+ 47  48
+     58  59
+     68
+
+Pentomino 104: Type F, Sum = 285
+ 48  49
+     59  60
+     69
+
+Pentomino 105: Type F, Sum = 300
+ 51  52
+     62  63
+     72
+
+Pentomino 106: Type F, Sum = 305
+ 52  53
+     63  64
+     73
+
+Pentomino 107: Type F, Sum = 310
+ 53  54
+     64  65
+     74
+
+Pentomino 108: Type F, Sum = 315
+ 54  55
+     65  66
+     75
+
+Pentomino 109: Type F, Sum = 320
+ 55  56
+     66  67
+     76
+
+Pentomino 110: Type F, Sum = 325
+ 56  57
+     67  68
+     77
+
+Pentomino 111: Type F, Sum = 330
+ 57  58
+     68  69
+     78
+
+Pentomino 112: Type F, Sum = 335
+ 58  59
+     69  70
+     79
+
+Pentomino 113: Type F, Sum = 350
+ 61  62
+     72  73
+     82
+
+Pentomino 114: Type F, Sum = 355
+ 62  63
+     73  74
+     83
+
+Pentomino 115: Type F, Sum = 360
+ 63  64
+     74  75
+     84
+
+Pentomino 116: Type F, Sum = 365
+ 64  65
+     75  76
+     85
+
+Pentomino 117: Type F, Sum = 370
+ 65  66
+     76  77
+     86
+
+Pentomino 118: Type F, Sum = 375
+ 66  67
+     77  78
+     87
+
+Pentomino 119: Type F, Sum = 380
+ 67  68
+     78  79
+     88
+
+Pentomino 120: Type F, Sum = 385
+ 68  69
+     79  80
+     89
+
+Pentomino 121: Type F, Sum = 400
+ 71  72
+     82  83
+     92
+
+Pentomino 122: Type F, Sum = 405
+ 72  73
+     83  84
+     93
+
+Pentomino 123: Type F, Sum = 410
+ 73  74
+     84  85
+     94
+
+Pentomino 124: Type F, Sum = 415
+ 74  75
+     85  86
+     95
+
+Pentomino 125: Type F, Sum = 420
+ 75  76
+     86  87
+     96
+
+Pentomino 126: Type F, Sum = 425
+ 76  77
+     87  88
+     97
+
+Pentomino 127: Type F, Sum = 430
+ 77  78
+     88  89
+     98
+
+Pentomino 128: Type F, Sum = 435
+ 78  79
+     89  90
+     99
+
+Pentomino 129: Type F, Sum = 50
+      2   3
+ 11  12
+     22
+
+Pentomino 130: Type F, Sum = 55
+      3   4
+ 12  13
+     23
+
+Pentomino 131: Type F, Sum = 60
+      4   5
+ 13  14
+     24
+
+Pentomino 132: Type F, Sum = 65
+      5   6
+ 14  15
+     25
+
+Pentomino 133: Type F, Sum = 70
+      6   7
+ 15  16
+     26
+
+Pentomino 134: Type F, Sum = 75
+      7   8
+ 16  17
+     27
+
+Pentomino 135: Type F, Sum = 80
+      8   9
+ 17  18
+     28
+
+Pentomino 136: Type F, Sum = 85
+      9  10
+ 18  19
+     29
+
+Pentomino 137: Type F, Sum = 100
+     12  13
+ 21  22
+     32
+
+Pentomino 138: Type F, Sum = 105
+     13  14
+ 22  23
+     33
+
+Pentomino 139: Type F, Sum = 110
+     14  15
+ 23  24
+     34
+
+Pentomino 140: Type F, Sum = 115
+     15  16
+ 24  25
+     35
+
+Pentomino 141: Type F, Sum = 120
+     16  17
+ 25  26
+     36
+
+Pentomino 142: Type F, Sum = 125
+     17  18
+ 26  27
+     37
+
+Pentomino 143: Type F, Sum = 130
+     18  19
+ 27  28
+     38
+
+Pentomino 144: Type F, Sum = 135
+     19  20
+ 28  29
+     39
+
+Pentomino 145: Type F, Sum = 150
+     22  23
+ 31  32
+     42
+
+Pentomino 146: Type F, Sum = 155
+     23  24
+ 32  33
+     43
+
+Pentomino 147: Type F, Sum = 160
+     24  25
+ 33  34
+     44
+
+Pentomino 148: Type F, Sum = 165
+     25  26
+ 34  35
+     45
+
+Pentomino 149: Type F, Sum = 170
+     26  27
+ 35  36
+     46
+
+Pentomino 150: Type F, Sum = 175
+     27  28
+ 36  37
+     47
+
+Pentomino 151: Type F, Sum = 180
+     28  29
+ 37  38
+     48
+
+Pentomino 152: Type F, Sum = 185
+     29  30
+ 38  39
+     49
+
+Pentomino 153: Type F, Sum = 200
+     32  33
+ 41  42
+     52
+
+Pentomino 154: Type F, Sum = 205
+     33  34
+ 42  43
+     53
+
+Pentomino 155: Type F, Sum = 210
+     34  35
+ 43  44
+     54
+
+Pentomino 156: Type F, Sum = 215
+     35  36
+ 44  45
+     55
+
+Pentomino 157: Type F, Sum = 220
+     36  37
+ 45  46
+     56
+
+Pentomino 158: Type F, Sum = 225
+     37  38
+ 46  47
+     57
+
+Pentomino 159: Type F, Sum = 230
+     38  39
+ 47  48
+     58
+
+Pentomino 160: Type F, Sum = 235
+     39  40
+ 48  49
+     59
+
+Pentomino 161: Type F, Sum = 250
+     42  43
+ 51  52
+     62
+
+Pentomino 162: Type F, Sum = 255
+     43  44
+ 52  53
+     63
+
+Pentomino 163: Type F, Sum = 260
+     44  45
+ 53  54
+     64
+
+Pentomino 164: Type F, Sum = 265
+     45  46
+ 54  55
+     65
+
+Pentomino 165: Type F, Sum = 270
+     46  47
+ 55  56
+     66
+
+Pentomino 166: Type F, Sum = 275
+     47  48
+ 56  57
+     67
+
+Pentomino 167: Type F, Sum = 280
+     48  49
+ 57  58
+     68
+
+Pentomino 168: Type F, Sum = 285
+     49  50
+ 58  59
+     69
+
+Pentomino 169: Type F, Sum = 300
+     52  53
+ 61  62
+     72
+
+Pentomino 170: Type F, Sum = 305
+     53  54
+ 62  63
+     73
+
+Pentomino 171: Type F, Sum = 310
+     54  55
+ 63  64
+     74
+
+Pentomino 172: Type F, Sum = 315
+     55  56
+ 64  65
+     75
+
+Pentomino 173: Type F, Sum = 320
+     56  57
+ 65  66
+     76
+
+Pentomino 174: Type F, Sum = 325
+     57  58
+ 66  67
+     77
+
+Pentomino 175: Type F, Sum = 330
+     58  59
+ 67  68
+     78
+
+Pentomino 176: Type F, Sum = 335
+     59  60
+ 68  69
+     79
+
+Pentomino 177: Type F, Sum = 350
+     62  63
+ 71  72
+     82
+
+Pentomino 178: Type F, Sum = 355
+     63  64
+ 72  73
+     83
+
+Pentomino 179: Type F, Sum = 360
+     64  65
+ 73  74
+     84
+
+Pentomino 180: Type F, Sum = 365
+     65  66
+ 74  75
+     85
+
+Pentomino 181: Type F, Sum = 370
+     66  67
+ 75  76
+     86
+
+Pentomino 182: Type F, Sum = 375
+     67  68
+ 76  77
+     87
+
+Pentomino 183: Type F, Sum = 380
+     68  69
+ 77  78
+     88
+
+Pentomino 184: Type F, Sum = 385
+     69  70
+ 78  79
+     89
+
+Pentomino 185: Type F, Sum = 400
+     72  73
+ 81  82
+     92
+
+Pentomino 186: Type F, Sum = 405
+     73  74
+ 82  83
+     93
+
+Pentomino 187: Type F, Sum = 410
+     74  75
+ 83  84
+     94
+
+Pentomino 188: Type F, Sum = 415
+     75  76
+ 84  85
+     95
+
+Pentomino 189: Type F, Sum = 420
+     76  77
+ 85  86
+     96
+
+Pentomino 190: Type F, Sum = 425
+     77  78
+ 86  87
+     97
+
+Pentomino 191: Type F, Sum = 430
+     78  79
+ 87  88
+     98
+
+Pentomino 192: Type F, Sum = 435
+     79  80
+ 88  89
+     99
+
+Pentomino 193: Type F, Sum = 70
+      2
+     12  13
+ 21  22
+
+Pentomino 194: Type F, Sum = 75
+      3
+     13  14
+ 22  23
+
+Pentomino 195: Type F, Sum = 80
+      4
+     14  15
+ 23  24
+
+Pentomino 196: Type F, Sum = 85
+      5
+     15  16
+ 24  25
+
+Pentomino 197: Type F, Sum = 90
+      6
+     16  17
+ 25  26
+
+Pentomino 198: Type F, Sum = 95
+      7
+     17  18
+ 26  27
+
+Pentomino 199: Type F, Sum = 100
+      8
+     18  19
+ 27  28
+
+Pentomino 200: Type F, Sum = 105
+      9
+     19  20
+ 28  29
+
+Pentomino 201: Type F, Sum = 120
+     12
+     22  23
+ 31  32
+
+Pentomino 202: Type F, Sum = 125
+     13
+     23  24
+ 32  33
+
+Pentomino 203: Type F, Sum = 130
+     14
+     24  25
+ 33  34
+
+Pentomino 204: Type F, Sum = 135
+     15
+     25  26
+ 34  35
+
+Pentomino 205: Type F, Sum = 140
+     16
+     26  27
+ 35  36
+
+Pentomino 206: Type F, Sum = 145
+     17
+     27  28
+ 36  37
+
+Pentomino 207: Type F, Sum = 150
+     18
+     28  29
+ 37  38
+
+Pentomino 208: Type F, Sum = 155
+     19
+     29  30
+ 38  39
+
+Pentomino 209: Type F, Sum = 170
+     22
+     32  33
+ 41  42
+
+Pentomino 210: Type F, Sum = 175
+     23
+     33  34
+ 42  43
+
+Pentomino 211: Type F, Sum = 180
+     24
+     34  35
+ 43  44
+
+Pentomino 212: Type F, Sum = 185
+     25
+     35  36
+ 44  45
+
+Pentomino 213: Type F, Sum = 190
+     26
+     36  37
+ 45  46
+
+Pentomino 214: Type F, Sum = 195
+     27
+     37  38
+ 46  47
+
+Pentomino 215: Type F, Sum = 200
+     28
+     38  39
+ 47  48
+
+Pentomino 216: Type F, Sum = 205
+     29
+     39  40
+ 48  49
+
+Pentomino 217: Type F, Sum = 220
+     32
+     42  43
+ 51  52
+
+Pentomino 218: Type F, Sum = 225
+     33
+     43  44
+ 52  53
+
+Pentomino 219: Type F, Sum = 230
+     34
+     44  45
+ 53  54
+
+Pentomino 220: Type F, Sum = 235
+     35
+     45  46
+ 54  55
+
+Pentomino 221: Type F, Sum = 240
+     36
+     46  47
+ 55  56
+
+Pentomino 222: Type F, Sum = 245
+     37
+     47  48
+ 56  57
+
+Pentomino 223: Type F, Sum = 250
+     38
+     48  49
+ 57  58
+
+Pentomino 224: Type F, Sum = 255
+     39
+     49  50
+ 58  59
+
+Pentomino 225: Type F, Sum = 270
+     42
+     52  53
+ 61  62
+
+Pentomino 226: Type F, Sum = 275
+     43
+     53  54
+ 62  63
+
+Pentomino 227: Type F, Sum = 280
+     44
+     54  55
+ 63  64
+
+Pentomino 228: Type F, Sum = 285
+     45
+     55  56
+ 64  65
+
+Pentomino 229: Type F, Sum = 290
+     46
+     56  57
+ 65  66
+
+Pentomino 230: Type F, Sum = 295
+     47
+     57  58
+ 66  67
+
+Pentomino 231: Type F, Sum = 300
+     48
+     58  59
+ 67  68
+
+Pentomino 232: Type F, Sum = 305
+     49
+     59  60
+ 68  69
+
+Pentomino 233: Type F, Sum = 320
+     52
+     62  63
+ 71  72
+
+Pentomino 234: Type F, Sum = 325
+     53
+     63  64
+ 72  73
+
+Pentomino 235: Type F, Sum = 330
+     54
+     64  65
+ 73  74
+
+Pentomino 236: Type F, Sum = 335
+     55
+     65  66
+ 74  75
+
+Pentomino 237: Type F, Sum = 340
+     56
+     66  67
+ 75  76
+
+Pentomino 238: Type F, Sum = 345
+     57
+     67  68
+ 76  77
+
+Pentomino 239: Type F, Sum = 350
+     58
+     68  69
+ 77  78
+
+Pentomino 240: Type F, Sum = 355
+     59
+     69  70
+ 78  79
+
+Pentomino 241: Type F, Sum = 370
+     62
+     72  73
+ 81  82
+
+Pentomino 242: Type F, Sum = 375
+     63
+     73  74
+ 82  83
+
+Pentomino 243: Type F, Sum = 380
+     64
+     74  75
+ 83  84
+
+Pentomino 244: Type F, Sum = 385
+     65
+     75  76
+ 84  85
+
+Pentomino 245: Type F, Sum = 390
+     66
+     76  77
+ 85  86
+
+Pentomino 246: Type F, Sum = 395
+     67
+     77  78
+ 86  87
+
+Pentomino 247: Type F, Sum = 400
+     68
+     78  79
+ 87  88
+
+Pentomino 248: Type F, Sum = 405
+     69
+     79  80
+ 88  89
+
+Pentomino 249: Type F, Sum = 420
+     72
+     82  83
+ 91  92
+
+Pentomino 250: Type F, Sum = 425
+     73
+     83  84
+ 92  93
+
+Pentomino 251: Type F, Sum = 430
+     74
+     84  85
+ 93  94
+
+Pentomino 252: Type F, Sum = 435
+     75
+     85  86
+ 94  95
+
+Pentomino 253: Type F, Sum = 440
+     76
+     86  87
+ 95  96
+
+Pentomino 254: Type F, Sum = 445
+     77
+     87  88
+ 96  97
+
+Pentomino 255: Type F, Sum = 450
+     78
+     88  89
+ 97  98
+
+Pentomino 256: Type F, Sum = 455
+     79
+     89  90
+ 98  99
+
+Pentomino 257: Type I, Sum = 15
+  1   2   3   4   5
+
+Pentomino 258: Type I, Sum = 20
+  2   3   4   5   6
+
+Pentomino 259: Type I, Sum = 25
+  3   4   5   6   7
+
+Pentomino 260: Type I, Sum = 30
+  4   5   6   7   8
+
+Pentomino 261: Type I, Sum = 35
+  5   6   7   8   9
+
+Pentomino 262: Type I, Sum = 40
+  6   7   8   9  10
+
+Pentomino 263: Type I, Sum = 65
+ 11  12  13  14  15
+
+Pentomino 264: Type I, Sum = 70
+ 12  13  14  15  16
+
+Pentomino 265: Type I, Sum = 75
+ 13  14  15  16  17
+
+Pentomino 266: Type I, Sum = 80
+ 14  15  16  17  18
+
+Pentomino 267: Type I, Sum = 85
+ 15  16  17  18  19
+
+Pentomino 268: Type I, Sum = 90
+ 16  17  18  19  20
+
+Pentomino 269: Type I, Sum = 115
+ 21  22  23  24  25
+
+Pentomino 270: Type I, Sum = 120
+ 22  23  24  25  26
+
+Pentomino 271: Type I, Sum = 125
+ 23  24  25  26  27
+
+Pentomino 272: Type I, Sum = 130
+ 24  25  26  27  28
+
+Pentomino 273: Type I, Sum = 135
+ 25  26  27  28  29
+
+Pentomino 274: Type I, Sum = 140
+ 26  27  28  29  30
+
+Pentomino 275: Type I, Sum = 165
+ 31  32  33  34  35
+
+Pentomino 276: Type I, Sum = 170
+ 32  33  34  35  36
+
+Pentomino 277: Type I, Sum = 175
+ 33  34  35  36  37
+
+Pentomino 278: Type I, Sum = 180
+ 34  35  36  37  38
+
+Pentomino 279: Type I, Sum = 185
+ 35  36  37  38  39
+
+Pentomino 280: Type I, Sum = 190
+ 36  37  38  39  40
+
+Pentomino 281: Type I, Sum = 215
+ 41  42  43  44  45
+
+Pentomino 282: Type I, Sum = 220
+ 42  43  44  45  46
+
+Pentomino 283: Type I, Sum = 225
+ 43  44  45  46  47
+
+Pentomino 284: Type I, Sum = 230
+ 44  45  46  47  48
+
+Pentomino 285: Type I, Sum = 235
+ 45  46  47  48  49
+
+Pentomino 286: Type I, Sum = 240
+ 46  47  48  49  50
+
+Pentomino 287: Type I, Sum = 265
+ 51  52  53  54  55
+
+Pentomino 288: Type I, Sum = 270
+ 52  53  54  55  56
+
+Pentomino 289: Type I, Sum = 275
+ 53  54  55  56  57
+
+Pentomino 290: Type I, Sum = 280
+ 54  55  56  57  58
+
+Pentomino 291: Type I, Sum = 285
+ 55  56  57  58  59
+
+Pentomino 292: Type I, Sum = 290
+ 56  57  58  59  60
+
+Pentomino 293: Type I, Sum = 315
+ 61  62  63  64  65
+
+Pentomino 294: Type I, Sum = 320
+ 62  63  64  65  66
+
+Pentomino 295: Type I, Sum = 325
+ 63  64  65  66  67
+
+Pentomino 296: Type I, Sum = 330
+ 64  65  66  67  68
+
+Pentomino 297: Type I, Sum = 335
+ 65  66  67  68  69
+
+Pentomino 298: Type I, Sum = 340
+ 66  67  68  69  70
+
+Pentomino 299: Type I, Sum = 365
+ 71  72  73  74  75
+
+Pentomino 300: Type I, Sum = 370
+ 72  73  74  75  76
+
+Pentomino 301: Type I, Sum = 375
+ 73  74  75  76  77
+
+Pentomino 302: Type I, Sum = 380
+ 74  75  76  77  78
+
+Pentomino 303: Type I, Sum = 385
+ 75  76  77  78  79
+
+Pentomino 304: Type I, Sum = 390
+ 76  77  78  79  80
+
+Pentomino 305: Type I, Sum = 415
+ 81  82  83  84  85
+
+Pentomino 306: Type I, Sum = 420
+ 82  83  84  85  86
+
+Pentomino 307: Type I, Sum = 425
+ 83  84  85  86  87
+
+Pentomino 308: Type I, Sum = 430
+ 84  85  86  87  88
+
+Pentomino 309: Type I, Sum = 435
+ 85  86  87  88  89
+
+Pentomino 310: Type I, Sum = 440
+ 86  87  88  89  90
+
+Pentomino 311: Type I, Sum = 465
+ 91  92  93  94  95
+
+Pentomino 312: Type I, Sum = 470
+ 92  93  94  95  96
+
+Pentomino 313: Type I, Sum = 475
+ 93  94  95  96  97
+
+Pentomino 314: Type I, Sum = 480
+ 94  95  96  97  98
+
+Pentomino 315: Type I, Sum = 485
+ 95  96  97  98  99
+
+Pentomino 316: Type I, Sum = 490
+ 96  97  98  99 100
+
+Pentomino 317: Type I, Sum = 105
+  1
+ 11
+ 21
+ 31
+ 41
+
+Pentomino 318: Type I, Sum = 110
+  2
+ 12
+ 22
+ 32
+ 42
+
+Pentomino 319: Type I, Sum = 115
+  3
+ 13
+ 23
+ 33
+ 43
+
+Pentomino 320: Type I, Sum = 120
+  4
+ 14
+ 24
+ 34
+ 44
+
+Pentomino 321: Type I, Sum = 125
+  5
+ 15
+ 25
+ 35
+ 45
+
+Pentomino 322: Type I, Sum = 130
+  6
+ 16
+ 26
+ 36
+ 46
+
+Pentomino 323: Type I, Sum = 135
+  7
+ 17
+ 27
+ 37
+ 47
+
+Pentomino 324: Type I, Sum = 140
+  8
+ 18
+ 28
+ 38
+ 48
+
+Pentomino 325: Type I, Sum = 145
+  9
+ 19
+ 29
+ 39
+ 49
+
+Pentomino 326: Type I, Sum = 150
+ 10
+ 20
+ 30
+ 40
+ 50
+
+Pentomino 327: Type I, Sum = 155
+ 11
+ 21
+ 31
+ 41
+ 51
+
+Pentomino 328: Type I, Sum = 160
+ 12
+ 22
+ 32
+ 42
+ 52
+
+Pentomino 329: Type I, Sum = 165
+ 13
+ 23
+ 33
+ 43
+ 53
+
+Pentomino 330: Type I, Sum = 170
+ 14
+ 24
+ 34
+ 44
+ 54
+
+Pentomino 331: Type I, Sum = 175
+ 15
+ 25
+ 35
+ 45
+ 55
+
+Pentomino 332: Type I, Sum = 180
+ 16
+ 26
+ 36
+ 46
+ 56
+
+Pentomino 333: Type I, Sum = 185
+ 17
+ 27
+ 37
+ 47
+ 57
+
+Pentomino 334: Type I, Sum = 190
+ 18
+ 28
+ 38
+ 48
+ 58
+
+Pentomino 335: Type I, Sum = 195
+ 19
+ 29
+ 39
+ 49
+ 59
+
+Pentomino 336: Type I, Sum = 200
+ 20
+ 30
+ 40
+ 50
+ 60
+
+Pentomino 337: Type I, Sum = 205
+ 21
+ 31
+ 41
+ 51
+ 61
+
+Pentomino 338: Type I, Sum = 210
+ 22
+ 32
+ 42
+ 52
+ 62
+
+Pentomino 339: Type I, Sum = 215
+ 23
+ 33
+ 43
+ 53
+ 63
+
+Pentomino 340: Type I, Sum = 220
+ 24
+ 34
+ 44
+ 54
+ 64
+
+Pentomino 341: Type I, Sum = 225
+ 25
+ 35
+ 45
+ 55
+ 65
+
+Pentomino 342: Type I, Sum = 230
+ 26
+ 36
+ 46
+ 56
+ 66
+
+Pentomino 343: Type I, Sum = 235
+ 27
+ 37
+ 47
+ 57
+ 67
+
+Pentomino 344: Type I, Sum = 240
+ 28
+ 38
+ 48
+ 58
+ 68
+
+Pentomino 345: Type I, Sum = 245
+ 29
+ 39
+ 49
+ 59
+ 69
+
+Pentomino 346: Type I, Sum = 250
+ 30
+ 40
+ 50
+ 60
+ 70
+
+Pentomino 347: Type I, Sum = 255
+ 31
+ 41
+ 51
+ 61
+ 71
+
+Pentomino 348: Type I, Sum = 260
+ 32
+ 42
+ 52
+ 62
+ 72
+
+Pentomino 349: Type I, Sum = 265
+ 33
+ 43
+ 53
+ 63
+ 73
+
+Pentomino 350: Type I, Sum = 270
+ 34
+ 44
+ 54
+ 64
+ 74
+
+Pentomino 351: Type I, Sum = 275
+ 35
+ 45
+ 55
+ 65
+ 75
+
+Pentomino 352: Type I, Sum = 280
+ 36
+ 46
+ 56
+ 66
+ 76
+
+Pentomino 353: Type I, Sum = 285
+ 37
+ 47
+ 57
+ 67
+ 77
+
+Pentomino 354: Type I, Sum = 290
+ 38
+ 48
+ 58
+ 68
+ 78
+
+Pentomino 355: Type I, Sum = 295
+ 39
+ 49
+ 59
+ 69
+ 79
+
+Pentomino 356: Type I, Sum = 300
+ 40
+ 50
+ 60
+ 70
+ 80
+
+Pentomino 357: Type I, Sum = 305
+ 41
+ 51
+ 61
+ 71
+ 81
+
+Pentomino 358: Type I, Sum = 310
+ 42
+ 52
+ 62
+ 72
+ 82
+
+Pentomino 359: Type I, Sum = 315
+ 43
+ 53
+ 63
+ 73
+ 83
+
+Pentomino 360: Type I, Sum = 320
+ 44
+ 54
+ 64
+ 74
+ 84
+
+Pentomino 361: Type I, Sum = 325
+ 45
+ 55
+ 65
+ 75
+ 85
+
+Pentomino 362: Type I, Sum = 330
+ 46
+ 56
+ 66
+ 76
+ 86
+
+Pentomino 363: Type I, Sum = 335
+ 47
+ 57
+ 67
+ 77
+ 87
+
+Pentomino 364: Type I, Sum = 340
+ 48
+ 58
+ 68
+ 78
+ 88
+
+Pentomino 365: Type I, Sum = 345
+ 49
+ 59
+ 69
+ 79
+ 89
+
+Pentomino 366: Type I, Sum = 350
+ 50
+ 60
+ 70
+ 80
+ 90
+
+Pentomino 367: Type I, Sum = 355
+ 51
+ 61
+ 71
+ 81
+ 91
+
+Pentomino 368: Type I, Sum = 360
+ 52
+ 62
+ 72
+ 82
+ 92
+
+Pentomino 369: Type I, Sum = 365
+ 53
+ 63
+ 73
+ 83
+ 93
+
+Pentomino 370: Type I, Sum = 370
+ 54
+ 64
+ 74
+ 84
+ 94
+
+Pentomino 371: Type I, Sum = 375
+ 55
+ 65
+ 75
+ 85
+ 95
+
+Pentomino 372: Type I, Sum = 380
+ 56
+ 66
+ 76
+ 86
+ 96
+
+Pentomino 373: Type I, Sum = 385
+ 57
+ 67
+ 77
+ 87
+ 97
+
+Pentomino 374: Type I, Sum = 390
+ 58
+ 68
+ 78
+ 88
+ 98
+
+Pentomino 375: Type I, Sum = 395
+ 59
+ 69
+ 79
+ 89
+ 99
+
+Pentomino 376: Type I, Sum = 400
+ 60
+ 70
+ 80
+ 90
+100
+
+Pentomino 377: Type T, Sum = 40
+  1   2   3
+     12
+     22
+
+Pentomino 378: Type T, Sum = 45
+  2   3   4
+     13
+     23
+
+Pentomino 379: Type T, Sum = 50
+  3   4   5
+     14
+     24
+
+Pentomino 380: Type T, Sum = 55
+  4   5   6
+     15
+     25
+
+Pentomino 381: Type T, Sum = 60
+  5   6   7
+     16
+     26
+
+Pentomino 382: Type T, Sum = 65
+  6   7   8
+     17
+     27
+
+Pentomino 383: Type T, Sum = 70
+  7   8   9
+     18
+     28
+
+Pentomino 384: Type T, Sum = 75
+  8   9  10
+     19
+     29
+
+Pentomino 385: Type T, Sum = 90
+ 11  12  13
+     22
+     32
+
+Pentomino 386: Type T, Sum = 95
+ 12  13  14
+     23
+     33
+
+Pentomino 387: Type T, Sum = 100
+ 13  14  15
+     24
+     34
+
+Pentomino 388: Type T, Sum = 105
+ 14  15  16
+     25
+     35
+
+Pentomino 389: Type T, Sum = 110
+ 15  16  17
+     26
+     36
+
+Pentomino 390: Type T, Sum = 115
+ 16  17  18
+     27
+     37
+
+Pentomino 391: Type T, Sum = 120
+ 17  18  19
+     28
+     38
+
+Pentomino 392: Type T, Sum = 125
+ 18  19  20
+     29
+     39
+
+Pentomino 393: Type T, Sum = 140
+ 21  22  23
+     32
+     42
+
+Pentomino 394: Type T, Sum = 145
+ 22  23  24
+     33
+     43
+
+Pentomino 395: Type T, Sum = 150
+ 23  24  25
+     34
+     44
+
+Pentomino 396: Type T, Sum = 155
+ 24  25  26
+     35
+     45
+
+Pentomino 397: Type T, Sum = 160
+ 25  26  27
+     36
+     46
+
+Pentomino 398: Type T, Sum = 165
+ 26  27  28
+     37
+     47
+
+Pentomino 399: Type T, Sum = 170
+ 27  28  29
+     38
+     48
+
+Pentomino 400: Type T, Sum = 175
+ 28  29  30
+     39
+     49
+
+Pentomino 401: Type T, Sum = 190
+ 31  32  33
+     42
+     52
+
+Pentomino 402: Type T, Sum = 195
+ 32  33  34
+     43
+     53
+
+Pentomino 403: Type T, Sum = 200
+ 33  34  35
+     44
+     54
+
+Pentomino 404: Type T, Sum = 205
+ 34  35  36
+     45
+     55
+
+Pentomino 405: Type T, Sum = 210
+ 35  36  37
+     46
+     56
+
+Pentomino 406: Type T, Sum = 215
+ 36  37  38
+     47
+     57
+
+Pentomino 407: Type T, Sum = 220
+ 37  38  39
+     48
+     58
+
+Pentomino 408: Type T, Sum = 225
+ 38  39  40
+     49
+     59
+
+Pentomino 409: Type T, Sum = 240
+ 41  42  43
+     52
+     62
+
+Pentomino 410: Type T, Sum = 245
+ 42  43  44
+     53
+     63
+
+Pentomino 411: Type T, Sum = 250
+ 43  44  45
+     54
+     64
+
+Pentomino 412: Type T, Sum = 255
+ 44  45  46
+     55
+     65
+
+Pentomino 413: Type T, Sum = 260
+ 45  46  47
+     56
+     66
+
+Pentomino 414: Type T, Sum = 265
+ 46  47  48
+     57
+     67
+
+Pentomino 415: Type T, Sum = 270
+ 47  48  49
+     58
+     68
+
+Pentomino 416: Type T, Sum = 275
+ 48  49  50
+     59
+     69
+
+Pentomino 417: Type T, Sum = 290
+ 51  52  53
+     62
+     72
+
+Pentomino 418: Type T, Sum = 295
+ 52  53  54
+     63
+     73
+
+Pentomino 419: Type T, Sum = 300
+ 53  54  55
+     64
+     74
+
+Pentomino 420: Type T, Sum = 305
+ 54  55  56
+     65
+     75
+
+Pentomino 421: Type T, Sum = 310
+ 55  56  57
+     66
+     76
+
+Pentomino 422: Type T, Sum = 315
+ 56  57  58
+     67
+     77
+
+Pentomino 423: Type T, Sum = 320
+ 57  58  59
+     68
+     78
+
+Pentomino 424: Type T, Sum = 325
+ 58  59  60
+     69
+     79
+
+Pentomino 425: Type T, Sum = 340
+ 61  62  63
+     72
+     82
+
+Pentomino 426: Type T, Sum = 345
+ 62  63  64
+     73
+     83
+
+Pentomino 427: Type T, Sum = 350
+ 63  64  65
+     74
+     84
+
+Pentomino 428: Type T, Sum = 355
+ 64  65  66
+     75
+     85
+
+Pentomino 429: Type T, Sum = 360
+ 65  66  67
+     76
+     86
+
+Pentomino 430: Type T, Sum = 365
+ 66  67  68
+     77
+     87
+
+Pentomino 431: Type T, Sum = 370
+ 67  68  69
+     78
+     88
+
+Pentomino 432: Type T, Sum = 375
+ 68  69  70
+     79
+     89
+
+Pentomino 433: Type T, Sum = 390
+ 71  72  73
+     82
+     92
+
+Pentomino 434: Type T, Sum = 395
+ 72  73  74
+     83
+     93
+
+Pentomino 435: Type T, Sum = 400
+ 73  74  75
+     84
+     94
+
+Pentomino 436: Type T, Sum = 405
+ 74  75  76
+     85
+     95
+
+Pentomino 437: Type T, Sum = 410
+ 75  76  77
+     86
+     96
+
+Pentomino 438: Type T, Sum = 415
+ 76  77  78
+     87
+     97
+
+Pentomino 439: Type T, Sum = 420
+ 77  78  79
+     88
+     98
+
+Pentomino 440: Type T, Sum = 425
+ 78  79  80
+     89
+     99
+
+Pentomino 441: Type T, Sum = 80
+      2
+     12
+ 21  22  23
+
+Pentomino 442: Type T, Sum = 85
+      3
+     13
+ 22  23  24
+
+Pentomino 443: Type T, Sum = 90
+      4
+     14
+ 23  24  25
+
+Pentomino 444: Type T, Sum = 95
+      5
+     15
+ 24  25  26
+
+Pentomino 445: Type T, Sum = 100
+      6
+     16
+ 25  26  27
+
+Pentomino 446: Type T, Sum = 105
+      7
+     17
+ 26  27  28
+
+Pentomino 447: Type T, Sum = 110
+      8
+     18
+ 27  28  29
+
+Pentomino 448: Type T, Sum = 115
+      9
+     19
+ 28  29  30
+
+Pentomino 449: Type T, Sum = 130
+     12
+     22
+ 31  32  33
+
+Pentomino 450: Type T, Sum = 135
+     13
+     23
+ 32  33  34
+
+Pentomino 451: Type T, Sum = 140
+     14
+     24
+ 33  34  35
+
+Pentomino 452: Type T, Sum = 145
+     15
+     25
+ 34  35  36
+
+Pentomino 453: Type T, Sum = 150
+     16
+     26
+ 35  36  37
+
+Pentomino 454: Type T, Sum = 155
+     17
+     27
+ 36  37  38
+
+Pentomino 455: Type T, Sum = 160
+     18
+     28
+ 37  38  39
+
+Pentomino 456: Type T, Sum = 165
+     19
+     29
+ 38  39  40
+
+Pentomino 457: Type T, Sum = 180
+     22
+     32
+ 41  42  43
+
+Pentomino 458: Type T, Sum = 185
+     23
+     33
+ 42  43  44
+
+Pentomino 459: Type T, Sum = 190
+     24
+     34
+ 43  44  45
+
+Pentomino 460: Type T, Sum = 195
+     25
+     35
+ 44  45  46
+
+Pentomino 461: Type T, Sum = 200
+     26
+     36
+ 45  46  47
+
+Pentomino 462: Type T, Sum = 205
+     27
+     37
+ 46  47  48
+
+Pentomino 463: Type T, Sum = 210
+     28
+     38
+ 47  48  49
+
+Pentomino 464: Type T, Sum = 215
+     29
+     39
+ 48  49  50
+
+Pentomino 465: Type T, Sum = 230
+     32
+     42
+ 51  52  53
+
+Pentomino 466: Type T, Sum = 235
+     33
+     43
+ 52  53  54
+
+Pentomino 467: Type T, Sum = 240
+     34
+     44
+ 53  54  55
+
+Pentomino 468: Type T, Sum = 245
+     35
+     45
+ 54  55  56
+
+Pentomino 469: Type T, Sum = 250
+     36
+     46
+ 55  56  57
+
+Pentomino 470: Type T, Sum = 255
+     37
+     47
+ 56  57  58
+
+Pentomino 471: Type T, Sum = 260
+     38
+     48
+ 57  58  59
+
+Pentomino 472: Type T, Sum = 265
+     39
+     49
+ 58  59  60
+
+Pentomino 473: Type T, Sum = 280
+     42
+     52
+ 61  62  63
+
+Pentomino 474: Type T, Sum = 285
+     43
+     53
+ 62  63  64
+
+Pentomino 475: Type T, Sum = 290
+     44
+     54
+ 63  64  65
+
+Pentomino 476: Type T, Sum = 295
+     45
+     55
+ 64  65  66
+
+Pentomino 477: Type T, Sum = 300
+     46
+     56
+ 65  66  67
+
+Pentomino 478: Type T, Sum = 305
+     47
+     57
+ 66  67  68
+
+Pentomino 479: Type T, Sum = 310
+     48
+     58
+ 67  68  69
+
+Pentomino 480: Type T, Sum = 315
+     49
+     59
+ 68  69  70
+
+Pentomino 481: Type T, Sum = 330
+     52
+     62
+ 71  72  73
+
+Pentomino 482: Type T, Sum = 335
+     53
+     63
+ 72  73  74
+
+Pentomino 483: Type T, Sum = 340
+     54
+     64
+ 73  74  75
+
+Pentomino 484: Type T, Sum = 345
+     55
+     65
+ 74  75  76
+
+Pentomino 485: Type T, Sum = 350
+     56
+     66
+ 75  76  77
+
+Pentomino 486: Type T, Sum = 355
+     57
+     67
+ 76  77  78
+
+Pentomino 487: Type T, Sum = 360
+     58
+     68
+ 77  78  79
+
+Pentomino 488: Type T, Sum = 365
+     59
+     69
+ 78  79  80
+
+Pentomino 489: Type T, Sum = 380
+     62
+     72
+ 81  82  83
+
+Pentomino 490: Type T, Sum = 385
+     63
+     73
+ 82  83  84
+
+Pentomino 491: Type T, Sum = 390
+     64
+     74
+ 83  84  85
+
+Pentomino 492: Type T, Sum = 395
+     65
+     75
+ 84  85  86
+
+Pentomino 493: Type T, Sum = 400
+     66
+     76
+ 85  86  87
+
+Pentomino 494: Type T, Sum = 405
+     67
+     77
+ 86  87  88
+
+Pentomino 495: Type T, Sum = 410
+     68
+     78
+ 87  88  89
+
+Pentomino 496: Type T, Sum = 415
+     69
+     79
+ 88  89  90
+
+Pentomino 497: Type T, Sum = 430
+     72
+     82
+ 91  92  93
+
+Pentomino 498: Type T, Sum = 435
+     73
+     83
+ 92  93  94
+
+Pentomino 499: Type T, Sum = 440
+     74
+     84
+ 93  94  95
+
+Pentomino 500: Type T, Sum = 445
+     75
+     85
+ 94  95  96
+
+Pentomino 501: Type T, Sum = 450
+     76
+     86
+ 95  96  97
+
+Pentomino 502: Type T, Sum = 455
+     77
+     87
+ 96  97  98
+
+Pentomino 503: Type T, Sum = 460
+     78
+     88
+ 97  98  99
+
+Pentomino 504: Type T, Sum = 465
+     79
+     89
+ 98  99 100
+
+Pentomino 505: Type U, Sum = 40
+  1       3
+ 11  12  13
+
+Pentomino 506: Type U, Sum = 45
+  2       4
+ 12  13  14
+
+Pentomino 507: Type U, Sum = 50
+  3       5
+ 13  14  15
+
+Pentomino 508: Type U, Sum = 55
+  4       6
+ 14  15  16
+
+Pentomino 509: Type U, Sum = 60
+  5       7
+ 15  16  17
+
+Pentomino 510: Type U, Sum = 65
+  6       8
+ 16  17  18
+
+Pentomino 511: Type U, Sum = 70
+  7       9
+ 17  18  19
+
+Pentomino 512: Type U, Sum = 75
+  8      10
+ 18  19  20
+
+Pentomino 513: Type U, Sum = 90
+ 11      13
+ 21  22  23
+
+Pentomino 514: Type U, Sum = 95
+ 12      14
+ 22  23  24
+
+Pentomino 515: Type U, Sum = 100
+ 13      15
+ 23  24  25
+
+Pentomino 516: Type U, Sum = 105
+ 14      16
+ 24  25  26
+
+Pentomino 517: Type U, Sum = 110
+ 15      17
+ 25  26  27
+
+Pentomino 518: Type U, Sum = 115
+ 16      18
+ 26  27  28
+
+Pentomino 519: Type U, Sum = 120
+ 17      19
+ 27  28  29
+
+Pentomino 520: Type U, Sum = 125
+ 18      20
+ 28  29  30
+
+Pentomino 521: Type U, Sum = 140
+ 21      23
+ 31  32  33
+
+Pentomino 522: Type U, Sum = 145
+ 22      24
+ 32  33  34
+
+Pentomino 523: Type U, Sum = 150
+ 23      25
+ 33  34  35
+
+Pentomino 524: Type U, Sum = 155
+ 24      26
+ 34  35  36
+
+Pentomino 525: Type U, Sum = 160
+ 25      27
+ 35  36  37
+
+Pentomino 526: Type U, Sum = 165
+ 26      28
+ 36  37  38
+
+Pentomino 527: Type U, Sum = 170
+ 27      29
+ 37  38  39
+
+Pentomino 528: Type U, Sum = 175
+ 28      30
+ 38  39  40
+
+Pentomino 529: Type U, Sum = 190
+ 31      33
+ 41  42  43
+
+Pentomino 530: Type U, Sum = 195
+ 32      34
+ 42  43  44
+
+Pentomino 531: Type U, Sum = 200
+ 33      35
+ 43  44  45
+
+Pentomino 532: Type U, Sum = 205
+ 34      36
+ 44  45  46
+
+Pentomino 533: Type U, Sum = 210
+ 35      37
+ 45  46  47
+
+Pentomino 534: Type U, Sum = 215
+ 36      38
+ 46  47  48
+
+Pentomino 535: Type U, Sum = 220
+ 37      39
+ 47  48  49
+
+Pentomino 536: Type U, Sum = 225
+ 38      40
+ 48  49  50
+
+Pentomino 537: Type U, Sum = 240
+ 41      43
+ 51  52  53
+
+Pentomino 538: Type U, Sum = 245
+ 42      44
+ 52  53  54
+
+Pentomino 539: Type U, Sum = 250
+ 43      45
+ 53  54  55
+
+Pentomino 540: Type U, Sum = 255
+ 44      46
+ 54  55  56
+
+Pentomino 541: Type U, Sum = 260
+ 45      47
+ 55  56  57
+
+Pentomino 542: Type U, Sum = 265
+ 46      48
+ 56  57  58
+
+Pentomino 543: Type U, Sum = 270
+ 47      49
+ 57  58  59
+
+Pentomino 544: Type U, Sum = 275
+ 48      50
+ 58  59  60
+
+Pentomino 545: Type U, Sum = 290
+ 51      53
+ 61  62  63
+
+Pentomino 546: Type U, Sum = 295
+ 52      54
+ 62  63  64
+
+Pentomino 547: Type U, Sum = 300
+ 53      55
+ 63  64  65
+
+Pentomino 548: Type U, Sum = 305
+ 54      56
+ 64  65  66
+
+Pentomino 549: Type U, Sum = 310
+ 55      57
+ 65  66  67
+
+Pentomino 550: Type U, Sum = 315
+ 56      58
+ 66  67  68
+
+Pentomino 551: Type U, Sum = 320
+ 57      59
+ 67  68  69
+
+Pentomino 552: Type U, Sum = 325
+ 58      60
+ 68  69  70
+
+Pentomino 553: Type U, Sum = 340
+ 61      63
+ 71  72  73
+
+Pentomino 554: Type U, Sum = 345
+ 62      64
+ 72  73  74
+
+Pentomino 555: Type U, Sum = 350
+ 63      65
+ 73  74  75
+
+Pentomino 556: Type U, Sum = 355
+ 64      66
+ 74  75  76
+
+Pentomino 557: Type U, Sum = 360
+ 65      67
+ 75  76  77
+
+Pentomino 558: Type U, Sum = 365
+ 66      68
+ 76  77  78
+
+Pentomino 559: Type U, Sum = 370
+ 67      69
+ 77  78  79
+
+Pentomino 560: Type U, Sum = 375
+ 68      70
+ 78  79  80
+
+Pentomino 561: Type U, Sum = 390
+ 71      73
+ 81  82  83
+
+Pentomino 562: Type U, Sum = 395
+ 72      74
+ 82  83  84
+
+Pentomino 563: Type U, Sum = 400
+ 73      75
+ 83  84  85
+
+Pentomino 564: Type U, Sum = 405
+ 74      76
+ 84  85  86
+
+Pentomino 565: Type U, Sum = 410
+ 75      77
+ 85  86  87
+
+Pentomino 566: Type U, Sum = 415
+ 76      78
+ 86  87  88
+
+Pentomino 567: Type U, Sum = 420
+ 77      79
+ 87  88  89
+
+Pentomino 568: Type U, Sum = 425
+ 78      80
+ 88  89  90
+
+Pentomino 569: Type U, Sum = 440
+ 81      83
+ 91  92  93
+
+Pentomino 570: Type U, Sum = 445
+ 82      84
+ 92  93  94
+
+Pentomino 571: Type U, Sum = 450
+ 83      85
+ 93  94  95
+
+Pentomino 572: Type U, Sum = 455
+ 84      86
+ 94  95  96
+
+Pentomino 573: Type U, Sum = 460
+ 85      87
+ 95  96  97
+
+Pentomino 574: Type U, Sum = 465
+ 86      88
+ 96  97  98
+
+Pentomino 575: Type U, Sum = 470
+ 87      89
+ 97  98  99
+
+Pentomino 576: Type U, Sum = 475
+ 88      90
+ 98  99 100
+
+Pentomino 577: Type U, Sum = 30
+  1   2   3
+ 11      13
+
+Pentomino 578: Type U, Sum = 35
+  2   3   4
+ 12      14
+
+Pentomino 579: Type U, Sum = 40
+  3   4   5
+ 13      15
+
+Pentomino 580: Type U, Sum = 45
+  4   5   6
+ 14      16
+
+Pentomino 581: Type U, Sum = 50
+  5   6   7
+ 15      17
+
+Pentomino 582: Type U, Sum = 55
+  6   7   8
+ 16      18
+
+Pentomino 583: Type U, Sum = 60
+  7   8   9
+ 17      19
+
+Pentomino 584: Type U, Sum = 65
+  8   9  10
+ 18      20
+
+Pentomino 585: Type U, Sum = 80
+ 11  12  13
+ 21      23
+
+Pentomino 586: Type U, Sum = 85
+ 12  13  14
+ 22      24
+
+Pentomino 587: Type U, Sum = 90
+ 13  14  15
+ 23      25
+
+Pentomino 588: Type U, Sum = 95
+ 14  15  16
+ 24      26
+
+Pentomino 589: Type U, Sum = 100
+ 15  16  17
+ 25      27
+
+Pentomino 590: Type U, Sum = 105
+ 16  17  18
+ 26      28
+
+Pentomino 591: Type U, Sum = 110
+ 17  18  19
+ 27      29
+
+Pentomino 592: Type U, Sum = 115
+ 18  19  20
+ 28      30
+
+Pentomino 593: Type U, Sum = 130
+ 21  22  23
+ 31      33
+
+Pentomino 594: Type U, Sum = 135
+ 22  23  24
+ 32      34
+
+Pentomino 595: Type U, Sum = 140
+ 23  24  25
+ 33      35
+
+Pentomino 596: Type U, Sum = 145
+ 24  25  26
+ 34      36
+
+Pentomino 597: Type U, Sum = 150
+ 25  26  27
+ 35      37
+
+Pentomino 598: Type U, Sum = 155
+ 26  27  28
+ 36      38
+
+Pentomino 599: Type U, Sum = 160
+ 27  28  29
+ 37      39
+
+Pentomino 600: Type U, Sum = 165
+ 28  29  30
+ 38      40
+
+Pentomino 601: Type U, Sum = 180
+ 31  32  33
+ 41      43
+
+Pentomino 602: Type U, Sum = 185
+ 32  33  34
+ 42      44
+
+Pentomino 603: Type U, Sum = 190
+ 33  34  35
+ 43      45
+
+Pentomino 604: Type U, Sum = 195
+ 34  35  36
+ 44      46
+
+Pentomino 605: Type U, Sum = 200
+ 35  36  37
+ 45      47
+
+Pentomino 606: Type U, Sum = 205
+ 36  37  38
+ 46      48
+
+Pentomino 607: Type U, Sum = 210
+ 37  38  39
+ 47      49
+
+Pentomino 608: Type U, Sum = 215
+ 38  39  40
+ 48      50
+
+Pentomino 609: Type U, Sum = 230
+ 41  42  43
+ 51      53
+
+Pentomino 610: Type U, Sum = 235
+ 42  43  44
+ 52      54
+
+Pentomino 611: Type U, Sum = 240
+ 43  44  45
+ 53      55
+
+Pentomino 612: Type U, Sum = 245
+ 44  45  46
+ 54      56
+
+Pentomino 613: Type U, Sum = 250
+ 45  46  47
+ 55      57
+
+Pentomino 614: Type U, Sum = 255
+ 46  47  48
+ 56      58
+
+Pentomino 615: Type U, Sum = 260
+ 47  48  49
+ 57      59
+
+Pentomino 616: Type U, Sum = 265
+ 48  49  50
+ 58      60
+
+Pentomino 617: Type U, Sum = 280
+ 51  52  53
+ 61      63
+
+Pentomino 618: Type U, Sum = 285
+ 52  53  54
+ 62      64
+
+Pentomino 619: Type U, Sum = 290
+ 53  54  55
+ 63      65
+
+Pentomino 620: Type U, Sum = 295
+ 54  55  56
+ 64      66
+
+Pentomino 621: Type U, Sum = 300
+ 55  56  57
+ 65      67
+
+Pentomino 622: Type U, Sum = 305
+ 56  57  58
+ 66      68
+
+Pentomino 623: Type U, Sum = 310
+ 57  58  59
+ 67      69
+
+Pentomino 624: Type U, Sum = 315
+ 58  59  60
+ 68      70
+
+Pentomino 625: Type U, Sum = 330
+ 61  62  63
+ 71      73
+
+Pentomino 626: Type U, Sum = 335
+ 62  63  64
+ 72      74
+
+Pentomino 627: Type U, Sum = 340
+ 63  64  65
+ 73      75
+
+Pentomino 628: Type U, Sum = 345
+ 64  65  66
+ 74      76
+
+Pentomino 629: Type U, Sum = 350
+ 65  66  67
+ 75      77
+
+Pentomino 630: Type U, Sum = 355
+ 66  67  68
+ 76      78
+
+Pentomino 631: Type U, Sum = 360
+ 67  68  69
+ 77      79
+
+Pentomino 632: Type U, Sum = 365
+ 68  69  70
+ 78      80
+
+Pentomino 633: Type U, Sum = 380
+ 71  72  73
+ 81      83
+
+Pentomino 634: Type U, Sum = 385
+ 72  73  74
+ 82      84
+
+Pentomino 635: Type U, Sum = 390
+ 73  74  75
+ 83      85
+
+Pentomino 636: Type U, Sum = 395
+ 74  75  76
+ 84      86
+
+Pentomino 637: Type U, Sum = 400
+ 75  76  77
+ 85      87
+
+Pentomino 638: Type U, Sum = 405
+ 76  77  78
+ 86      88
+
+Pentomino 639: Type U, Sum = 410
+ 77  78  79
+ 87      89
+
+Pentomino 640: Type U, Sum = 415
+ 78  79  80
+ 88      90
+
+Pentomino 641: Type U, Sum = 430
+ 81  82  83
+ 91      93
+
+Pentomino 642: Type U, Sum = 435
+ 82  83  84
+ 92      94
+
+Pentomino 643: Type U, Sum = 440
+ 83  84  85
+ 93      95
+
+Pentomino 644: Type U, Sum = 445
+ 84  85  86
+ 94      96
+
+Pentomino 645: Type U, Sum = 450
+ 85  86  87
+ 95      97
+
+Pentomino 646: Type U, Sum = 455
+ 86  87  88
+ 96      98
+
+Pentomino 647: Type U, Sum = 460
+ 87  88  89
+ 97      99
+
+Pentomino 648: Type U, Sum = 465
+ 88  89  90
+ 98     100
+
+Pentomino 649: Type X, Sum = 60
+      2
+ 11  12  13
+     22
+
+Pentomino 650: Type X, Sum = 65
+      3
+ 12  13  14
+     23
+
+Pentomino 651: Type X, Sum = 70
+      4
+ 13  14  15
+     24
+
+Pentomino 652: Type X, Sum = 75
+      5
+ 14  15  16
+     25
+
+Pentomino 653: Type X, Sum = 80
+      6
+ 15  16  17
+     26
+
+Pentomino 654: Type X, Sum = 85
+      7
+ 16  17  18
+     27
+
+Pentomino 655: Type X, Sum = 90
+      8
+ 17  18  19
+     28
+
+Pentomino 656: Type X, Sum = 95
+      9
+ 18  19  20
+     29
+
+Pentomino 657: Type X, Sum = 110
+     12
+ 21  22  23
+     32
+
+Pentomino 658: Type X, Sum = 115
+     13
+ 22  23  24
+     33
+
+Pentomino 659: Type X, Sum = 120
+     14
+ 23  24  25
+     34
+
+Pentomino 660: Type X, Sum = 125
+     15
+ 24  25  26
+     35
+
+Pentomino 661: Type X, Sum = 130
+     16
+ 25  26  27
+     36
+
+Pentomino 662: Type X, Sum = 135
+     17
+ 26  27  28
+     37
+
+Pentomino 663: Type X, Sum = 140
+     18
+ 27  28  29
+     38
+
+Pentomino 664: Type X, Sum = 145
+     19
+ 28  29  30
+     39
+
+Pentomino 665: Type X, Sum = 160
+     22
+ 31  32  33
+     42
+
+Pentomino 666: Type X, Sum = 165
+     23
+ 32  33  34
+     43
+
+Pentomino 667: Type X, Sum = 170
+     24
+ 33  34  35
+     44
+
+Pentomino 668: Type X, Sum = 175
+     25
+ 34  35  36
+     45
+
+Pentomino 669: Type X, Sum = 180
+     26
+ 35  36  37
+     46
+
+Pentomino 670: Type X, Sum = 185
+     27
+ 36  37  38
+     47
+
+Pentomino 671: Type X, Sum = 190
+     28
+ 37  38  39
+     48
+
+Pentomino 672: Type X, Sum = 195
+     29
+ 38  39  40
+     49
+
+Pentomino 673: Type X, Sum = 210
+     32
+ 41  42  43
+     52
+
+Pentomino 674: Type X, Sum = 215
+     33
+ 42  43  44
+     53
+
+Pentomino 675: Type X, Sum = 220
+     34
+ 43  44  45
+     54
+
+Pentomino 676: Type X, Sum = 225
+     35
+ 44  45  46
+     55
+
+Pentomino 677: Type X, Sum = 230
+     36
+ 45  46  47
+     56
+
+Pentomino 678: Type X, Sum = 235
+     37
+ 46  47  48
+     57
+
+Pentomino 679: Type X, Sum = 240
+     38
+ 47  48  49
+     58
+
+Pentomino 680: Type X, Sum = 245
+     39
+ 48  49  50
+     59
+
+Pentomino 681: Type X, Sum = 260
+     42
+ 51  52  53
+     62
+
+Pentomino 682: Type X, Sum = 265
+     43
+ 52  53  54
+     63
+
+Pentomino 683: Type X, Sum = 270
+     44
+ 53  54  55
+     64
+
+Pentomino 684: Type X, Sum = 275
+     45
+ 54  55  56
+     65
+
+Pentomino 685: Type X, Sum = 280
+     46
+ 55  56  57
+     66
+
+Pentomino 686: Type X, Sum = 285
+     47
+ 56  57  58
+     67
+
+Pentomino 687: Type X, Sum = 290
+     48
+ 57  58  59
+     68
+
+Pentomino 688: Type X, Sum = 295
+     49
+ 58  59  60
+     69
+
+Pentomino 689: Type X, Sum = 310
+     52
+ 61  62  63
+     72
+
+Pentomino 690: Type X, Sum = 315
+     53
+ 62  63  64
+     73
+
+Pentomino 691: Type X, Sum = 320
+     54
+ 63  64  65
+     74
+
+Pentomino 692: Type X, Sum = 325
+     55
+ 64  65  66
+     75
+
+Pentomino 693: Type X, Sum = 330
+     56
+ 65  66  67
+     76
+
+Pentomino 694: Type X, Sum = 335
+     57
+ 66  67  68
+     77
+
+Pentomino 695: Type X, Sum = 340
+     58
+ 67  68  69
+     78
+
+Pentomino 696: Type X, Sum = 345
+     59
+ 68  69  70
+     79
+
+Pentomino 697: Type X, Sum = 360
+     62
+ 71  72  73
+     82
+
+Pentomino 698: Type X, Sum = 365
+     63
+ 72  73  74
+     83
+
+Pentomino 699: Type X, Sum = 370
+     64
+ 73  74  75
+     84
+
+Pentomino 700: Type X, Sum = 375
+     65
+ 74  75  76
+     85
+
+Pentomino 701: Type X, Sum = 380
+     66
+ 75  76  77
+     86
+
+Pentomino 702: Type X, Sum = 385
+     67
+ 76  77  78
+     87
+
+Pentomino 703: Type X, Sum = 390
+     68
+ 77  78  79
+     88
+
+Pentomino 704: Type X, Sum = 395
+     69
+ 78  79  80
+     89
+
+Pentomino 705: Type X, Sum = 410
+     72
+ 81  82  83
+     92
+
+Pentomino 706: Type X, Sum = 415
+     73
+ 82  83  84
+     93
+
+Pentomino 707: Type X, Sum = 420
+     74
+ 83  84  85
+     94
+
+Pentomino 708: Type X, Sum = 425
+     75
+ 84  85  86
+     95
+
+Pentomino 709: Type X, Sum = 430
+     76
+ 85  86  87
+     96
+
+Pentomino 710: Type X, Sum = 435
+     77
+ 86  87  88
+     97
+
+Pentomino 711: Type X, Sum = 440
+     78
+ 87  88  89
+     98
+
+Pentomino 712: Type X, Sum = 445
+     79
+ 88  89  90
+     99
+
+Pentomino 713: Type Z, Sum = 60
+  1   2
+     12
+     22  23
+
+Pentomino 714: Type Z, Sum = 65
+  2   3
+     13
+     23  24
+
+Pentomino 715: Type Z, Sum = 70
+  3   4
+     14
+     24  25
+
+Pentomino 716: Type Z, Sum = 75
+  4   5
+     15
+     25  26
+
+Pentomino 717: Type Z, Sum = 80
+  5   6
+     16
+     26  27
+
+Pentomino 718: Type Z, Sum = 85
+  6   7
+     17
+     27  28
+
+Pentomino 719: Type Z, Sum = 90
+  7   8
+     18
+     28  29
+
+Pentomino 720: Type Z, Sum = 95
+  8   9
+     19
+     29  30
+
+Pentomino 721: Type Z, Sum = 110
+ 11  12
+     22
+     32  33
+
+Pentomino 722: Type Z, Sum = 115
+ 12  13
+     23
+     33  34
+
+Pentomino 723: Type Z, Sum = 120
+ 13  14
+     24
+     34  35
+
+Pentomino 724: Type Z, Sum = 125
+ 14  15
+     25
+     35  36
+
+Pentomino 725: Type Z, Sum = 130
+ 15  16
+     26
+     36  37
+
+Pentomino 726: Type Z, Sum = 135
+ 16  17
+     27
+     37  38
+
+Pentomino 727: Type Z, Sum = 140
+ 17  18
+     28
+     38  39
+
+Pentomino 728: Type Z, Sum = 145
+ 18  19
+     29
+     39  40
+
+Pentomino 729: Type Z, Sum = 160
+ 21  22
+     32
+     42  43
+
+Pentomino 730: Type Z, Sum = 165
+ 22  23
+     33
+     43  44
+
+Pentomino 731: Type Z, Sum = 170
+ 23  24
+     34
+     44  45
+
+Pentomino 732: Type Z, Sum = 175
+ 24  25
+     35
+     45  46
+
+Pentomino 733: Type Z, Sum = 180
+ 25  26
+     36
+     46  47
+
+Pentomino 734: Type Z, Sum = 185
+ 26  27
+     37
+     47  48
+
+Pentomino 735: Type Z, Sum = 190
+ 27  28
+     38
+     48  49
+
+Pentomino 736: Type Z, Sum = 195
+ 28  29
+     39
+     49  50
+
+Pentomino 737: Type Z, Sum = 210
+ 31  32
+     42
+     52  53
+
+Pentomino 738: Type Z, Sum = 215
+ 32  33
+     43
+     53  54
+
+Pentomino 739: Type Z, Sum = 220
+ 33  34
+     44
+     54  55
+
+Pentomino 740: Type Z, Sum = 225
+ 34  35
+     45
+     55  56
+
+Pentomino 741: Type Z, Sum = 230
+ 35  36
+     46
+     56  57
+
+Pentomino 742: Type Z, Sum = 235
+ 36  37
+     47
+     57  58
+
+Pentomino 743: Type Z, Sum = 240
+ 37  38
+     48
+     58  59
+
+Pentomino 744: Type Z, Sum = 245
+ 38  39
+     49
+     59  60
+
+Pentomino 745: Type Z, Sum = 260
+ 41  42
+     52
+     62  63
+
+Pentomino 746: Type Z, Sum = 265
+ 42  43
+     53
+     63  64
+
+Pentomino 747: Type Z, Sum = 270
+ 43  44
+     54
+     64  65
+
+Pentomino 748: Type Z, Sum = 275
+ 44  45
+     55
+     65  66
+
+Pentomino 749: Type Z, Sum = 280
+ 45  46
+     56
+     66  67
+
+Pentomino 750: Type Z, Sum = 285
+ 46  47
+     57
+     67  68
+
+Pentomino 751: Type Z, Sum = 290
+ 47  48
+     58
+     68  69
+
+Pentomino 752: Type Z, Sum = 295
+ 48  49
+     59
+     69  70
+
+Pentomino 753: Type Z, Sum = 310
+ 51  52
+     62
+     72  73
+
+Pentomino 754: Type Z, Sum = 315
+ 52  53
+     63
+     73  74
+
+Pentomino 755: Type Z, Sum = 320
+ 53  54
+     64
+     74  75
+
+Pentomino 756: Type Z, Sum = 325
+ 54  55
+     65
+     75  76
+
+Pentomino 757: Type Z, Sum = 330
+ 55  56
+     66
+     76  77
+
+Pentomino 758: Type Z, Sum = 335
+ 56  57
+     67
+     77  78
+
+Pentomino 759: Type Z, Sum = 340
+ 57  58
+     68
+     78  79
+
+Pentomino 760: Type Z, Sum = 345
+ 58  59
+     69
+     79  80
+
+Pentomino 761: Type Z, Sum = 360
+ 61  62
+     72
+     82  83
+
+Pentomino 762: Type Z, Sum = 365
+ 62  63
+     73
+     83  84
+
+Pentomino 763: Type Z, Sum = 370
+ 63  64
+     74
+     84  85
+
+Pentomino 764: Type Z, Sum = 375
+ 64  65
+     75
+     85  86
+
+Pentomino 765: Type Z, Sum = 380
+ 65  66
+     76
+     86  87
+
+Pentomino 766: Type Z, Sum = 385
+ 66  67
+     77
+     87  88
+
+Pentomino 767: Type Z, Sum = 390
+ 67  68
+     78
+     88  89
+
+Pentomino 768: Type Z, Sum = 395
+ 68  69
+     79
+     89  90
+
+Pentomino 769: Type Z, Sum = 410
+ 71  72
+     82
+     92  93
+
+Pentomino 770: Type Z, Sum = 415
+ 72  73
+     83
+     93  94
+
+Pentomino 771: Type Z, Sum = 420
+ 73  74
+     84
+     94  95
+
+Pentomino 772: Type Z, Sum = 425
+ 74  75
+     85
+     95  96
+
+Pentomino 773: Type Z, Sum = 430
+ 75  76
+     86
+     96  97
+
+Pentomino 774: Type Z, Sum = 435
+ 76  77
+     87
+     97  98
+
+Pentomino 775: Type Z, Sum = 440
+ 77  78
+     88
+     98  99
+
+Pentomino 776: Type Z, Sum = 445
+ 78  79
+     89
+     99 100
+
+Pentomino 777: Type Z, Sum = 60
+          3
+ 11  12  13
+ 21
+
+Pentomino 778: Type Z, Sum = 65
+          4
+ 12  13  14
+ 22
+
+Pentomino 779: Type Z, Sum = 70
+          5
+ 13  14  15
+ 23
+
+Pentomino 780: Type Z, Sum = 75
+          6
+ 14  15  16
+ 24
+
+Pentomino 781: Type Z, Sum = 80
+          7
+ 15  16  17
+ 25
+
+Pentomino 782: Type Z, Sum = 85
+          8
+ 16  17  18
+ 26
+
+Pentomino 783: Type Z, Sum = 90
+          9
+ 17  18  19
+ 27
+
+Pentomino 784: Type Z, Sum = 95
+         10
+ 18  19  20
+ 28
+
+Pentomino 785: Type Z, Sum = 110
+         13
+ 21  22  23
+ 31
+
+Pentomino 786: Type Z, Sum = 115
+         14
+ 22  23  24
+ 32
+
+Pentomino 787: Type Z, Sum = 120
+         15
+ 23  24  25
+ 33
+
+Pentomino 788: Type Z, Sum = 125
+         16
+ 24  25  26
+ 34
+
+Pentomino 789: Type Z, Sum = 130
+         17
+ 25  26  27
+ 35
+
+Pentomino 790: Type Z, Sum = 135
+         18
+ 26  27  28
+ 36
+
+Pentomino 791: Type Z, Sum = 140
+         19
+ 27  28  29
+ 37
+
+Pentomino 792: Type Z, Sum = 145
+         20
+ 28  29  30
+ 38
+
+Pentomino 793: Type Z, Sum = 160
+         23
+ 31  32  33
+ 41
+
+Pentomino 794: Type Z, Sum = 165
+         24
+ 32  33  34
+ 42
+
+Pentomino 795: Type Z, Sum = 170
+         25
+ 33  34  35
+ 43
+
+Pentomino 796: Type Z, Sum = 175
+         26
+ 34  35  36
+ 44
+
+Pentomino 797: Type Z, Sum = 180
+         27
+ 35  36  37
+ 45
+
+Pentomino 798: Type Z, Sum = 185
+         28
+ 36  37  38
+ 46
+
+Pentomino 799: Type Z, Sum = 190
+         29
+ 37  38  39
+ 47
+
+Pentomino 800: Type Z, Sum = 195
+         30
+ 38  39  40
+ 48
+
+Pentomino 801: Type Z, Sum = 210
+         33
+ 41  42  43
+ 51
+
+Pentomino 802: Type Z, Sum = 215
+         34
+ 42  43  44
+ 52
+
+Pentomino 803: Type Z, Sum = 220
+         35
+ 43  44  45
+ 53
+
+Pentomino 804: Type Z, Sum = 225
+         36
+ 44  45  46
+ 54
+
+Pentomino 805: Type Z, Sum = 230
+         37
+ 45  46  47
+ 55
+
+Pentomino 806: Type Z, Sum = 235
+         38
+ 46  47  48
+ 56
+
+Pentomino 807: Type Z, Sum = 240
+         39
+ 47  48  49
+ 57
+
+Pentomino 808: Type Z, Sum = 245
+         40
+ 48  49  50
+ 58
+
+Pentomino 809: Type Z, Sum = 260
+         43
+ 51  52  53
+ 61
+
+Pentomino 810: Type Z, Sum = 265
+         44
+ 52  53  54
+ 62
+
+Pentomino 811: Type Z, Sum = 270
+         45
+ 53  54  55
+ 63
+
+Pentomino 812: Type Z, Sum = 275
+         46
+ 54  55  56
+ 64
+
+Pentomino 813: Type Z, Sum = 280
+         47
+ 55  56  57
+ 65
+
+Pentomino 814: Type Z, Sum = 285
+         48
+ 56  57  58
+ 66
+
+Pentomino 815: Type Z, Sum = 290
+         49
+ 57  58  59
+ 67
+
+Pentomino 816: Type Z, Sum = 295
+         50
+ 58  59  60
+ 68
+
+Pentomino 817: Type Z, Sum = 310
+         53
+ 61  62  63
+ 71
+
+Pentomino 818: Type Z, Sum = 315
+         54
+ 62  63  64
+ 72
+
+Pentomino 819: Type Z, Sum = 320
+         55
+ 63  64  65
+ 73
+
+Pentomino 820: Type Z, Sum = 325
+         56
+ 64  65  66
+ 74
+
+Pentomino 821: Type Z, Sum = 330
+         57
+ 65  66  67
+ 75
+
+Pentomino 822: Type Z, Sum = 335
+         58
+ 66  67  68
+ 76
+
+Pentomino 823: Type Z, Sum = 340
+         59
+ 67  68  69
+ 77
+
+Pentomino 824: Type Z, Sum = 345
+         60
+ 68  69  70
+ 78
+
+Pentomino 825: Type Z, Sum = 360
+         63
+ 71  72  73
+ 81
+
+Pentomino 826: Type Z, Sum = 365
+         64
+ 72  73  74
+ 82
+
+Pentomino 827: Type Z, Sum = 370
+         65
+ 73  74  75
+ 83
+
+Pentomino 828: Type Z, Sum = 375
+         66
+ 74  75  76
+ 84
+
+Pentomino 829: Type Z, Sum = 380
+         67
+ 75  76  77
+ 85
+
+Pentomino 830: Type Z, Sum = 385
+         68
+ 76  77  78
+ 86
+
+Pentomino 831: Type Z, Sum = 390
+         69
+ 77  78  79
+ 87
+
+Pentomino 832: Type Z, Sum = 395
+         70
+ 78  79  80
+ 88
+
+Pentomino 833: Type Z, Sum = 410
+         73
+ 81  82  83
+ 91
+
+Pentomino 834: Type Z, Sum = 415
+         74
+ 82  83  84
+ 92
+
+Pentomino 835: Type Z, Sum = 420
+         75
+ 83  84  85
+ 93
+
+Pentomino 836: Type Z, Sum = 425
+         76
+ 84  85  86
+ 94
+
+Pentomino 837: Type Z, Sum = 430
+         77
+ 85  86  87
+ 95
+
+Pentomino 838: Type Z, Sum = 435
+         78
+ 86  87  88
+ 96
+
+Pentomino 839: Type Z, Sum = 440
+         79
+ 87  88  89
+ 97
+
+Pentomino 840: Type Z, Sum = 445
+         80
+ 88  89  90
+ 98
+
+Pentomino 841: Type Z, Sum = 60
+  1
+ 11  12  13
+         23
+
+Pentomino 842: Type Z, Sum = 65
+  2
+ 12  13  14
+         24
+
+Pentomino 843: Type Z, Sum = 70
+  3
+ 13  14  15
+         25
+
+Pentomino 844: Type Z, Sum = 75
+  4
+ 14  15  16
+         26
+
+Pentomino 845: Type Z, Sum = 80
+  5
+ 15  16  17
+         27
+
+Pentomino 846: Type Z, Sum = 85
+  6
+ 16  17  18
+         28
+
+Pentomino 847: Type Z, Sum = 90
+  7
+ 17  18  19
+         29
+
+Pentomino 848: Type Z, Sum = 95
+  8
+ 18  19  20
+         30
+
+Pentomino 849: Type Z, Sum = 110
+ 11
+ 21  22  23
+         33
+
+Pentomino 850: Type Z, Sum = 115
+ 12
+ 22  23  24
+         34
+
+Pentomino 851: Type Z, Sum = 120
+ 13
+ 23  24  25
+         35
+
+Pentomino 852: Type Z, Sum = 125
+ 14
+ 24  25  26
+         36
+
+Pentomino 853: Type Z, Sum = 130
+ 15
+ 25  26  27
+         37
+
+Pentomino 854: Type Z, Sum = 135
+ 16
+ 26  27  28
+         38
+
+Pentomino 855: Type Z, Sum = 140
+ 17
+ 27  28  29
+         39
+
+Pentomino 856: Type Z, Sum = 145
+ 18
+ 28  29  30
+         40
+
+Pentomino 857: Type Z, Sum = 160
+ 21
+ 31  32  33
+         43
+
+Pentomino 858: Type Z, Sum = 165
+ 22
+ 32  33  34
+         44
+
+Pentomino 859: Type Z, Sum = 170
+ 23
+ 33  34  35
+         45
+
+Pentomino 860: Type Z, Sum = 175
+ 24
+ 34  35  36
+         46
+
+Pentomino 861: Type Z, Sum = 180
+ 25
+ 35  36  37
+         47
+
+Pentomino 862: Type Z, Sum = 185
+ 26
+ 36  37  38
+         48
+
+Pentomino 863: Type Z, Sum = 190
+ 27
+ 37  38  39
+         49
+
+Pentomino 864: Type Z, Sum = 195
+ 28
+ 38  39  40
+         50
+
+Pentomino 865: Type Z, Sum = 210
+ 31
+ 41  42  43
+         53
+
+Pentomino 866: Type Z, Sum = 215
+ 32
+ 42  43  44
+         54
+
+Pentomino 867: Type Z, Sum = 220
+ 33
+ 43  44  45
+         55
+
+Pentomino 868: Type Z, Sum = 225
+ 34
+ 44  45  46
+         56
+
+Pentomino 869: Type Z, Sum = 230
+ 35
+ 45  46  47
+         57
+
+Pentomino 870: Type Z, Sum = 235
+ 36
+ 46  47  48
+         58
+
+Pentomino 871: Type Z, Sum = 240
+ 37
+ 47  48  49
+         59
+
+Pentomino 872: Type Z, Sum = 245
+ 38
+ 48  49  50
+         60
+
+Pentomino 873: Type Z, Sum = 260
+ 41
+ 51  52  53
+         63
+
+Pentomino 874: Type Z, Sum = 265
+ 42
+ 52  53  54
+         64
+
+Pentomino 875: Type Z, Sum = 270
+ 43
+ 53  54  55
+         65
+
+Pentomino 876: Type Z, Sum = 275
+ 44
+ 54  55  56
+         66
+
+Pentomino 877: Type Z, Sum = 280
+ 45
+ 55  56  57
+         67
+
+Pentomino 878: Type Z, Sum = 285
+ 46
+ 56  57  58
+         68
+
+Pentomino 879: Type Z, Sum = 290
+ 47
+ 57  58  59
+         69
+
+Pentomino 880: Type Z, Sum = 295
+ 48
+ 58  59  60
+         70
+
+Pentomino 881: Type Z, Sum = 310
+ 51
+ 61  62  63
+         73
+
+Pentomino 882: Type Z, Sum = 315
+ 52
+ 62  63  64
+         74
+
+Pentomino 883: Type Z, Sum = 320
+ 53
+ 63  64  65
+         75
+
+Pentomino 884: Type Z, Sum = 325
+ 54
+ 64  65  66
+         76
+
+Pentomino 885: Type Z, Sum = 330
+ 55
+ 65  66  67
+         77
+
+Pentomino 886: Type Z, Sum = 335
+ 56
+ 66  67  68
+         78
+
+Pentomino 887: Type Z, Sum = 340
+ 57
+ 67  68  69
+         79
+
+Pentomino 888: Type Z, Sum = 345
+ 58
+ 68  69  70
+         80
+
+Pentomino 889: Type Z, Sum = 360
+ 61
+ 71  72  73
+         83
+
+Pentomino 890: Type Z, Sum = 365
+ 62
+ 72  73  74
+         84
+
+Pentomino 891: Type Z, Sum = 370
+ 63
+ 73  74  75
+         85
+
+Pentomino 892: Type Z, Sum = 375
+ 64
+ 74  75  76
+         86
+
+Pentomino 893: Type Z, Sum = 380
+ 65
+ 75  76  77
+         87
+
+Pentomino 894: Type Z, Sum = 385
+ 66
+ 76  77  78
+         88
+
+Pentomino 895: Type Z, Sum = 390
+ 67
+ 77  78  79
+         89
+
+Pentomino 896: Type Z, Sum = 395
+ 68
+ 78  79  80
+         90
+
+Pentomino 897: Type Z, Sum = 410
+ 71
+ 81  82  83
+         93
+
+Pentomino 898: Type Z, Sum = 415
+ 72
+ 82  83  84
+         94
+
+Pentomino 899: Type Z, Sum = 420
+ 73
+ 83  84  85
+         95
+
+Pentomino 900: Type Z, Sum = 425
+ 74
+ 84  85  86
+         96
+
+Pentomino 901: Type Z, Sum = 430
+ 75
+ 85  86  87
+         97
+
+Pentomino 902: Type Z, Sum = 435
+ 76
+ 86  87  88
+         98
+
+Pentomino 903: Type Z, Sum = 440
+ 77
+ 87  88  89
+         99
+
+Pentomino 904: Type Z, Sum = 445
+ 78
+ 88  89  90
+        100
+
+Pentomino 905: Type Z, Sum = 60
+      2   3
+     12
+ 21  22
+
+Pentomino 906: Type Z, Sum = 65
+      3   4
+     13
+ 22  23
+
+Pentomino 907: Type Z, Sum = 70
+      4   5
+     14
+ 23  24
+
+Pentomino 908: Type Z, Sum = 75
+      5   6
+     15
+ 24  25
+
+Pentomino 909: Type Z, Sum = 80
+      6   7
+     16
+ 25  26
+
+Pentomino 910: Type Z, Sum = 85
+      7   8
+     17
+ 26  27
+
+Pentomino 911: Type Z, Sum = 90
+      8   9
+     18
+ 27  28
+
+Pentomino 912: Type Z, Sum = 95
+      9  10
+     19
+ 28  29
+
+Pentomino 913: Type Z, Sum = 110
+     12  13
+     22
+ 31  32
+
+Pentomino 914: Type Z, Sum = 115
+     13  14
+     23
+ 32  33
+
+Pentomino 915: Type Z, Sum = 120
+     14  15
+     24
+ 33  34
+
+Pentomino 916: Type Z, Sum = 125
+     15  16
+     25
+ 34  35
+
+Pentomino 917: Type Z, Sum = 130
+     16  17
+     26
+ 35  36
+
+Pentomino 918: Type Z, Sum = 135
+     17  18
+     27
+ 36  37
+
+Pentomino 919: Type Z, Sum = 140
+     18  19
+     28
+ 37  38
+
+Pentomino 920: Type Z, Sum = 145
+     19  20
+     29
+ 38  39
+
+Pentomino 921: Type Z, Sum = 160
+     22  23
+     32
+ 41  42
+
+Pentomino 922: Type Z, Sum = 165
+     23  24
+     33
+ 42  43
+
+Pentomino 923: Type Z, Sum = 170
+     24  25
+     34
+ 43  44
+
+Pentomino 924: Type Z, Sum = 175
+     25  26
+     35
+ 44  45
+
+Pentomino 925: Type Z, Sum = 180
+     26  27
+     36
+ 45  46
+
+Pentomino 926: Type Z, Sum = 185
+     27  28
+     37
+ 46  47
+
+Pentomino 927: Type Z, Sum = 190
+     28  29
+     38
+ 47  48
+
+Pentomino 928: Type Z, Sum = 195
+     29  30
+     39
+ 48  49
+
+Pentomino 929: Type Z, Sum = 210
+     32  33
+     42
+ 51  52
+
+Pentomino 930: Type Z, Sum = 215
+     33  34
+     43
+ 52  53
+
+Pentomino 931: Type Z, Sum = 220
+     34  35
+     44
+ 53  54
+
+Pentomino 932: Type Z, Sum = 225
+     35  36
+     45
+ 54  55
+
+Pentomino 933: Type Z, Sum = 230
+     36  37
+     46
+ 55  56
+
+Pentomino 934: Type Z, Sum = 235
+     37  38
+     47
+ 56  57
+
+Pentomino 935: Type Z, Sum = 240
+     38  39
+     48
+ 57  58
+
+Pentomino 936: Type Z, Sum = 245
+     39  40
+     49
+ 58  59
+
+Pentomino 937: Type Z, Sum = 260
+     42  43
+     52
+ 61  62
+
+Pentomino 938: Type Z, Sum = 265
+     43  44
+     53
+ 62  63
+
+Pentomino 939: Type Z, Sum = 270
+     44  45
+     54
+ 63  64
+
+Pentomino 940: Type Z, Sum = 275
+     45  46
+     55
+ 64  65
+
+Pentomino 941: Type Z, Sum = 280
+     46  47
+     56
+ 65  66
+
+Pentomino 942: Type Z, Sum = 285
+     47  48
+     57
+ 66  67
+
+Pentomino 943: Type Z, Sum = 290
+     48  49
+     58
+ 67  68
+
+Pentomino 944: Type Z, Sum = 295
+     49  50
+     59
+ 68  69
+
+Pentomino 945: Type Z, Sum = 310
+     52  53
+     62
+ 71  72
+
+Pentomino 946: Type Z, Sum = 315
+     53  54
+     63
+ 72  73
+
+Pentomino 947: Type Z, Sum = 320
+     54  55
+     64
+ 73  74
+
+Pentomino 948: Type Z, Sum = 325
+     55  56
+     65
+ 74  75
+
+Pentomino 949: Type Z, Sum = 330
+     56  57
+     66
+ 75  76
+
+Pentomino 950: Type Z, Sum = 335
+     57  58
+     67
+ 76  77
+
+Pentomino 951: Type Z, Sum = 340
+     58  59
+     68
+ 77  78
+
+Pentomino 952: Type Z, Sum = 345
+     59  60
+     69
+ 78  79
+
+Pentomino 953: Type Z, Sum = 360
+     62  63
+     72
+ 81  82
+
+Pentomino 954: Type Z, Sum = 365
+     63  64
+     73
+ 82  83
+
+Pentomino 955: Type Z, Sum = 370
+     64  65
+     74
+ 83  84
+
+Pentomino 956: Type Z, Sum = 375
+     65  66
+     75
+ 84  85
+
+Pentomino 957: Type Z, Sum = 380
+     66  67
+     76
+ 85  86
+
+Pentomino 958: Type Z, Sum = 385
+     67  68
+     77
+ 86  87
+
+Pentomino 959: Type Z, Sum = 390
+     68  69
+     78
+ 87  88
+
+Pentomino 960: Type Z, Sum = 395
+     69  70
+     79
+ 88  89
+
+Pentomino 961: Type Z, Sum = 410
+     72  73
+     82
+ 91  92
+
+Pentomino 962: Type Z, Sum = 415
+     73  74
+     83
+ 92  93
+
+Pentomino 963: Type Z, Sum = 420
+     74  75
+     84
+ 93  94
+
+Pentomino 964: Type Z, Sum = 425
+     75  76
+     85
+ 94  95
+
+Pentomino 965: Type Z, Sum = 430
+     76  77
+     86
+ 95  96
+
+Pentomino 966: Type Z, Sum = 435
+     77  78
+     87
+ 96  97
+
+Pentomino 967: Type Z, Sum = 440
+     78  79
+     88
+ 97  98
+
+Pentomino 968: Type Z, Sum = 445
+     79  80
+     89
+ 98  99
+
